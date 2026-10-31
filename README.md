@@ -20,6 +20,10 @@ The notebook [`Assignment1.ipynb`](notebooks/Assigment1.ipynb) performs the foll
 ##### Part 2: Sorting the data 
 - I sorted grouped the data by security type, facility type and race to get the racial breakdown of each prison. Then I created a new data set the total number of prisoners regardless of race in each facility and merged it with the racial breadown data. Lastly I did the same thing but with security levels and merged it with the original data set to create super data set. 
 
+## Outputs
+
+The notebooks output this spreadsheet which contains: 
+- [`output/facility_merged.csv`]
 
 ## Running the analysis yourself
 
