@@ -25,6 +25,15 @@ The notebook [`Assignment1.ipynb`](notebooks/Assigment1.ipynb) performs the foll
 The notebooks output this spreadsheet which contains: 
 - [`output/facility_merged.csv`]
 
+The Google Sheet where I combined the population data with the staffing data. 
+- [`output/HEALTH_SERVICES - LAM.xlsx`]
+
+And a document with couple of paragraphs summarizing my methodology and findings: 
+- [`output/Assignment 1 - Methodology.pdf`]
+
+In case that doesn't work. Click <a href="https://docs.google.com/document/d/1fkEWC_EUnUIrFbDavn1ETVsfxgylXJIdXzvxxDON2IA/edit?usp=sharing"> here </a> for the Google Drive link. 
+
+
 ## Running the analysis yourself
 
 You can run the analysis yourself. To do so, you'll need the following installed on your computer:
